@@ -3,13 +3,10 @@
 
 ### Jekyll ###
 =======
-*.swp
->>>>>>> bb587d0ba4da26a9d5e489c75ca10df4d90b1e70
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-<<<<<<< HEAD
 
 ### WebStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm

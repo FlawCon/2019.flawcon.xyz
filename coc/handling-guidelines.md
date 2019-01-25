@@ -8,7 +8,7 @@ title: Incident handling guidelines
 **If there is any immediate threat to the safety of anyone contact police.**
 
 # Gather information
-Get a written statement or transcribe what has been said. This information must include details of;
+Get a written statement or transcribe what has been said. This information should include details of;
 - Which persons are involved
 - What behaviour lead to the complaint
 - The time and location of said behaviour
@@ -18,10 +18,11 @@ Get a written statement or transcribe what has been said. This information must 
 - Find them a quite place to be
 - Ask if they need/want a friend to be with them
 - Ask "How can I help you?"
-- Give them contact information for the conference staff
+- Give them contact information for the conference organisers
 
 # What do to next
-A meeting of all conference staff must be called immediately, this meeting must;
+A meeting of all conference organisers should be called immediately or if not possible
+at the quickly as possible, this meeting should;
 - Determine what happened
 - Consider possible routes of action
 
