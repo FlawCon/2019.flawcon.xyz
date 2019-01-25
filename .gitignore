@@ -73,4 +73,3 @@ fabric.properties
 # End of https://www.gitignore.io/api/jekyll,webstorm
 
 ./idea
-.idea/
