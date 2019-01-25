@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
+description: Our Code of Conduct
 ---
 
 # FlawCon Code of Conduct

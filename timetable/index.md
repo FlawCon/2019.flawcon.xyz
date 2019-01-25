@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Timetable
+discription: How to find our timetable
 ---
 
 # Timetable

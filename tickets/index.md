@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Tickets
+description: Where to get tickets
 ---
 
 # Tickets

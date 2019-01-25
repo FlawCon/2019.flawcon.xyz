@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Incident handling guidelines
+description: How we handle incidents
 ---
 
 # Incident handling guidelines

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Staff
+description: The organisers contact details
 ---
 
 # Our Staff
