@@ -7,20 +7,20 @@ title: Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. 
 Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
-Don't be an silly and ruin someone's day for no reason.
+Don't be silly and ruin someone's day for no reason.
 
 ## Need Help?
 
-The Code of Conduct Team hotline number will be released before the event. Please text or call or send us a message via [Signal](https://signal.org/) for assistance.
+The Code of Conduct Team hotline number will be released before the event. Please text, call, or send us a message via [Signal](https://signal.org/) for assistance.
 You can also contact a member of staff directly or through DM on the conference slack.
 
-Any reports will be treated with the *upmost* confidentiality, and processed according to the 
-[Incident Handling Guidelines](/coc/handling-guidelines.html)
+Any reports will be treated with the *utmost* confidentiality, and processed according to the 
+[Incident Handling Guidelines](/coc/handling-guidelines/)
 
 ## The REALLY Quick Version
 Be excellent to each other! - Bill and Ted
 
-Here are some examples of how to acheive that:
+Here are some examples of how to achieve that:
 - Treat everyone professionally
 - Be welcoming, friendly, and patient
 - Be respectful
@@ -51,7 +51,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff can be identified as they'll be wearing branded clothing and/or badges.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment
-to feel safe for the duration of the conference. We value your attendance, After all, Without attendees the conference wouldn't be happening.
+to feel safe for the duration of the conference. We value your attendance, After all, Without attendees the conference would not be happening.
 
 We expect participants to follow these rules at conference and workshop venues, conference-related social events, and any online platform under control of the conference.
 
