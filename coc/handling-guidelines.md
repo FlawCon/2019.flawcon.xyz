@@ -5,6 +5,8 @@ title: Incident handling guidelines
 
 # Incident handling guidelines
 
+This has been made public so we can be held accountable for our actions. We invite you to report any member of staff you believe may not be following it directly to the event organisers (See the [Staff](/staff) page for details on how to contact us if you are unable to find us in person)
+
 **If there is any immediate threat to the safety of anyone contact police.**
 
 # Gather information
