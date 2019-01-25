@@ -7,17 +7,25 @@ title: Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. 
 Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+Don't be an silly and ruin someone's day for no reason.
 
 ## Need Help?
 
-The Code of Conduct Team hotline number will be released before the event, Please text or call or send us a message via [Signal](https://signal.org/) for assistance.
+The Code of Conduct Team hotline number will be released before the event. Please text or call or send us a message via [Signal](https://signal.org/) for assistance.
 You can also contact a member of staff directly or through DM on the conference slack.
 
-Any reports will be treated with the upmost confidentiality. False reports of misconduct **will** leave you liable to the same repocussions as those who break the Code of Conduct.
-Don't be an idiot and ruin someone's day for no reason.
+Any reports will be treated with the *upmost* confidentiality.
 
 ## The REALLY Quick Version
 Be excellent to each other! - Bill and Ted
+
+Here are some examples of how to acheive that:
+- Treat everyone professionally
+- Be welcoming, friendly, and patient
+- Be respectful
+- Be aware of the effect your words may have on others
+- Be careful with jokes
+- Admit when you do not know something
 
 ## The Quick Version
 Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation,
@@ -44,6 +52,6 @@ Conference staff can be identified as they'll be wearing branded clothing and/or
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment
 to feel safe for the duration of the conference. We value your attendance, After all, Without attendees the conference wouldn't be happening.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+We expect participants to follow these rules at conference and workshop venues, conference-related social events, and any online platform under control of the conference.
 
 This code of conduct was taken from [confcodeofconduct.com](http://confcodeofconduct.com/), with a few minor changes
