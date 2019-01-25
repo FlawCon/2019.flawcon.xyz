@@ -45,5 +45,5 @@ warning on the spot.
 
 
 # Keep a written record
-It is important to say accountable and in case any follow up is required after the event 
+It is important to stay accountable and in case any follow up is required after the event 
 a written record of all actions and reports must be kept.
