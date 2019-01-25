@@ -14,7 +14,8 @@ Don't be an silly and ruin someone's day for no reason.
 The Code of Conduct Team hotline number will be released before the event. Please text or call or send us a message via [Signal](https://signal.org/) for assistance.
 You can also contact a member of staff directly or through DM on the conference slack.
 
-Any reports will be treated with the *upmost* confidentiality.
+Any reports will be treated with the *upmost* confidentiality, and processed according to the 
+[Incident Handling Guidelines](/coc/handling-guidelines.html)
 
 ## The REALLY Quick Version
 Be excellent to each other! - Bill and Ted
