@@ -15,7 +15,7 @@ The Code of Conduct Team hotline number will be released before the event. Pleas
 You can also contact a member of staff directly or through DM on the conference slack.
 
 Any reports will be treated with the *upmost* confidentiality, and processed according to the 
-[Incident Handling Guidelines](/coc/handling-guidelines.html)
+[Incident Handling Guidelines](/coc/handling-guidelines/)
 
 ## The REALLY Quick Version
 Be excellent to each other! - Bill and Ted
