@@ -11,7 +11,6 @@ description: FlawCon is an up-coming Security and Open Source focused convention
     <p>We are looking for sponsors! <a href="mailto:bonzi@flawcon.xyz">Contact us</a> for more info</p>
 </center>
 
-
 Coming soon, Watch this space!
 
 FlawCon is an up-coming Security and Open Source focused convention
