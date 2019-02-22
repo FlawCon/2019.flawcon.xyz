@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Incident handling guidelines
-description: How we handle incidents
+title: Incident Handling Guidelines
+description: How we handle incidents reported to us during the event
 ---
 
 # Incident handling guidelines
 
 This has been made public so we can be held accountable for our actions. We invite you to report any member of our team you believe may not be following it directly to the event organisers (See the [Staff](/staff) page for details on how to contact us if you are unable to find us in person)
 
-**If there is any immediate threat to the safety of anyone contact police.**
+# If there is any immediate threat to the safety of anyone contact police.
 
 # Gather information
 Get a written statement or transcribe what has been said. This information should include details of;
