@@ -14,3 +14,8 @@ This years event is made possible by our wonderfull sponsors
 <a href="https://www.readmodwrite.com">
 <img src="/assets/img/rmw-logo.png" alt="Read Modify Write" style="all:unset; margin-left:0 !important; width:180px !important; height:124px !important" />
 </a>
+
+## [JetBrains](https://www.jetbrains.com/)
+<a href="https://www.jetbrains.com/">
+<img src="/assets/img/jetbrains.png" alt="JetBrains" style="all:unset; margin-left:0 !important; width:200px !important; height:217px !important" />
+</a>
