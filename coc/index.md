@@ -19,7 +19,7 @@ Any reports will be treated with the *utmost* confidentiality, and processed acc
 [Incident Handling Guidelines](/coc/handling-guidelines/)
 
 ## The REALLY Quick Version
-Be excellent to each other! - Bill and Ted
+"Be excellent to each other!" - Bill and Ted
 
 Here are some examples of how to achieve that:
 - Treat everyone professionally
@@ -52,8 +52,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff can be identified as they'll be wearing branded clothing and/or badges.
 
 Conference organisers will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment
-to feel safe for the duration of the conference. We value your attendance, After all, Without attendees the conference would not be happening.
+to feel safe for the duration of the conference. We value your attendance, After all, without attendees the conference would not be happening.
 
 We expect participants to follow these rules at conference and workshop venues, conference-related social events, and any online platform under control of the conference.
 
-This code of conduct was taken from [confcodeofconduct.com](http://confcodeofconduct.com/), with a few minor changes
+This code of conduct was taken from [confcodeofconduct.com](http://confcodeofconduct.com/), with a few minor changes.

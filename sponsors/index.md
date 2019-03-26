@@ -6,9 +6,9 @@ description: This years sponsors
 
 # Our Sponsors
 
-##### Looking to Sponsor Us? Head to our [Sponsor Us](/sponsor) page!
+##### Looking to sponsor us? Head to our [Sponsor Us](/sponsor) page!
 
-This years event is made possible by our wonderfull sponsors
+This year's event is made possible by our wonderful sponsors:
 
 ## [Read Modify Write](https://www.readmodwrite.com/)
 <a href="https://www.readmodwrite.com">
