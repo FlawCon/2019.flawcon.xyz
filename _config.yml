@@ -22,3 +22,5 @@ twitter: flawcon
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
+include: [".well-known"]
