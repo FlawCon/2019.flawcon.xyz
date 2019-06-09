@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:bonzi@flawcon.xyz
+Encryption: https://keybase.io/bonzi
+Preferred-Languages: en
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEVF28FnnvsTDLhUeqCwh6yqAEipoFAlz8w9QACgkQCwh6yqAE
+iprthgf8C98ymynU+S9IuvLGAv21p68LMY++sWo8zfCreVsuy1z+MjugFBrtjsue
+FwHElqgNNwawihaXABC//oUW48phZGMKLOuN9RV/02BioGjMhBIa3N2cRuv9S5Kq
+jfVFl9eYF/XLIw/B59yaXY9zcy03rX2kIc0qFo2wlnTsQw1nTK0XN79yfan+YSTn
+8Toy0DahX9ryhXKDEtfeW19lc/Vn+dugdtISEWebuyvDbd3l3qW7yiwDYfS0rCFU
+HmxijaS3fgHxrr5dnQ6ZV8l6RLJ0GobHG0R4V85i5g/Ug1Ff5ITmZUZsoRYEUzv9
+baUQJvdNnGaioGJV+dVgAgn0Z7KJKg==
+=yRR8
+-----END PGP SIGNATURE-----
