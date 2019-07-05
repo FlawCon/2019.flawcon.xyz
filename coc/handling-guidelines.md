@@ -24,8 +24,8 @@ Get a written statement or transcribe what has been said. This information shoul
 - Give them contact information for the conference organisers
 
 # What do to next
-A meeting of all conference organisers should be called immediately or if not possible
-at the quickly as possible, this meeting should;
+A meeting of all conference organisers should be called immediately or if not currently possible
+at the nearest possible time, this meeting should;
 - Determine what happened
 - Consider possible routes of action
 
