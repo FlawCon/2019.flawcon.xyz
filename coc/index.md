@@ -52,7 +52,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff can be identified as they'll be wearing branded clothing and/or badges.
 
 Conference organisers will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment
-to feel safe for the duration of the conference. We value your attendance, After all, without attendees the conference would not be happening.
+to feel safe for the duration of the conference. We value your attendance, after all, without attendees the conference would not be happening.
 
 We expect participants to follow these rules at conference and workshop venues, conference-related social events, and any online platform under control of the conference.
 
