@@ -11,7 +11,7 @@ body {
 	margin: auto;
 	width: 80%;
 	border: 1px dashed rgba(255,255,255,0.7);
-        font-family: 'Montserrat', 'Open Sans', sans-serif;
+	font-family: 'Montserrat', 'Open Sans', sans-serif;
 }
 
 header, nav, main, footer {
@@ -121,4 +121,20 @@ main header {
 
 main, footer * {
 	font-weight: bold;
+}
+
+.tito-wrapper {
+	font-family: 'Montserrat', 'Open Sans', sans-serif !important;
+	color: rgba(255,255,255,0.7) !important;
+	font-weight: bold !important;
+}
+
+.tito-ticket-name {
+	color: rgba(255,255,255,0.7) !important;
+	font-weight: bold !important;
+}
+
+.tito-ticket-description {
+	color: rgba(255,255,255,0.7) !important;
+	font-weight: bold !important;
 }
