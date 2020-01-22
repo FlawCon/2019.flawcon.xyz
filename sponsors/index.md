@@ -35,6 +35,6 @@ These are Organisations from the community who may not have given us money, but 
 
 ### [EventInfra](https://eventinfra.org)
 
-<div style="font-size: 44px; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; line-height: 1; font-weight: unset;">
+<span style="font-size: 44px; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; line-height: 1; font-weight: unset;">
   <b>EventInfra</b>.org
-</div>
+</span>
