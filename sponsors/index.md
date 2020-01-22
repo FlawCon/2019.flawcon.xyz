@@ -34,7 +34,4 @@ These are Organisations, who without there generosity, would mean this years eve
 These are Organisations from the community who may not have given us money, but have helped us make this years event, and hopefully many more, a great success
 
 ### [EventInfra](https://eventinfra.org)
-
-<span style="font-size: 44px; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; line-height: 1; font-weight: unset;">
-  <b>EventInfra</b>.org
-</span>
+[<b>EventInfra</b>.org](https://eventinfra.org)
